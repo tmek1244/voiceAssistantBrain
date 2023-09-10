@@ -1,0 +1,15 @@
+{
+    "turn_on_leds": {
+        "nicknames": [
+            "turn on leds",
+            "w\u0142\u0105cz ledy",
+            "turn on the lights"
+        ]
+    },
+    "turn_off_leds": {
+        "nicknames": [
+            "turn off leds",
+            "wy\u0142\u0105cz ledy"
+        ]
+    }
+}
